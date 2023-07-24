@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ramya jyothi
+=======
+text11 is added
+>>>>>>> Branch2
